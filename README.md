@@ -1,2 +1,2 @@
 # wright-jenkins
-Docker container for jenkins with ruby and sass installed
+Docker container extending jenkins with ruby and sass installed
